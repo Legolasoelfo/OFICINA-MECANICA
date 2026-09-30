@@ -11,7 +11,7 @@ com auxílio de modelos de IA (Gemini / OpenRouter) integrados ao VS Code.
 
 - Victor Silva Granja
 - Davi da Silva Fonseca Vilete
-- Eurico
+- Maximilian Miller
 
 ## Cenário / Regras de negócio
 
